@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Riken 👋
 
-<!--
-**rikenkaleworkshop-ui/rikenkaleworkshop-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year AIML Student  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🚀 Building projects to solve real-world problems  
 
-Here are some ideas to get you started:
+## Projects
+🔹 Binwin – Smart waste reward system (Smart India Hackathon)  
+🔹 SmartBite – Project developed at Code Mahotsav  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python | Machine Learning | React | TypeScript | Git  
+
+## Currently Learning
+Machine Learning  
+Deep Learning  
+Data Science
