@@ -6,7 +6,7 @@
 ## 💡 Projects
 🔹 Binwin – Smart waste reward system (Smart India Hackathon)  
 🔹 SmartBite – Project developed at Code Mahotsav  
-🔹 College FAQ Chatbot – AI-powered university assistant for answering student and parents queries (SSPU)
+🔹 College FAQ Chatbot – AI powered university assistant for answering student and parents queries (SSPU)
 
 ## 🧠 Tech Stack
 Python | Machine Learning | React | TypeScript | Git | Streamlit | NLP
